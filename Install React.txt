@@ -1,0 +1,8 @@
+1: install  node js
+2: vs code install
+
+3:create new Folder -->ReactFolio
+4:change directory to ReactFolio
+5:npx create-react-app demoshopapp
+6:change directory to demoshopapp
+7:npm start
